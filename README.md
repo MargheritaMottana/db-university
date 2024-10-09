@@ -30,3 +30,11 @@
     
     Cosa consegnare?
     Dopo aver testato le vostre query con phpMyAdmin, riportatele in un file txt e caricatelo nella vostra repo.
+
+-------------------------------------------------------------
+
+3.
+    Esercizio di oggi: DB University (Query 2)
+    Repo: db-university
+
+    Utilizzando lo stesso database di ieri, eseguite le query in allegato. Caricate un secondo file nella stessa repo di ieri (db-university) con le query di oggi.
